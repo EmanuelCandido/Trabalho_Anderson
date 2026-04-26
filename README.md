@@ -1,3 +1,4 @@
+<img width="750" height="512" alt="Tela Principal" src="https://github.com/user-attachments/assets/ead43cf6-0eaf-4af5-aef3-f4bb73065de2" />
 # 🩺 Sistema de Gerenciamento de Casos Clínicos
 
 Este projeto foi desenvolvido como parte da avaliação da 2ª Nota da disciplina de Banco de Dados do curso de Engenharia de Software. O objetivo é aplicar conceitos de modelagem relacional e integração entre uma aplicação Java e um banco de dados PostgreSQL.
