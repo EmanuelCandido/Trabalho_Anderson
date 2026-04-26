@@ -22,7 +22,7 @@ O sistema permite o cadastro, consulta, atualização e exclusão de casos clín
 * `/ddl`: Scripts de criação das tabelas e chaves (PK/FK).
 * `/dml`: Scripts de inserção (população) e manipulação de dados.
 * `/dql`: Scripts de consultas complexas (Inner, Left e Right Joins).
-* `/src`: Código-fonte da aplicação Java.
+* `/TrabalhoJava`: Código-fonte da aplicação Java.
 
 ---
 
