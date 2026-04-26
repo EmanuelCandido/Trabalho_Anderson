@@ -1,4 +1,4 @@
-<img width="750" height="512" alt="Tela Principal" src="https://github.com/user-attachments/assets/ead43cf6-0eaf-4af5-aef3-f4bb73065de2" />
+
 # 🩺 Sistema de Gerenciamento de Casos Clínicos
 
 Este projeto foi desenvolvido como parte da avaliação da 2ª Nota da disciplina de Banco de Dados do curso de Engenharia de Software. O objetivo é aplicar conceitos de modelagem relacional e integração entre uma aplicação Java e um banco de dados PostgreSQL.
@@ -30,16 +30,15 @@ O sistema permite o cadastro, consulta, atualização e exclusão de casos clín
 ## 📸 Capturas de Tela
 
 ### 1. Tela de Login
-![Login](<img width="752" height="518" alt="Login tela" src="https://github.com/user-attachments/assets/71b32948-aa6a-4918-958b-5e651432ea4a" />
-)
+![Login]<img width="752" height="518" alt="Login tela" src="https://github.com/user-attachments/assets/71b32948-aa6a-4918-958b-5e651432ea4a" />
+
 
 ### 2. Menu Principal
-![Menu Principal](<img width="750" height="512" alt="Tela Principal" src="https://github.com/user-attachments/assets/800a3228-d2f7-4c69-9265-fef5c2e6e788" />
-)
+![Menu Principal]<img width="750" height="512" alt="Tela Principal" src="https://github.com/user-attachments/assets/ead43cf6-0eaf-4af5-aef3-f4bb73065de2" />
 
 ### 3. Consulta com JOIN
-![Consulta Join](<img width="752" height="545" alt="image" src="https://github.com/user-attachments/assets/f6350ae6-bb6b-4c9a-b91b-1e9a5b119576" />
-)
+![Consulta Join]<img width="752" height="545" alt="image" src="https://github.com/user-attachments/assets/f6350ae6-bb6b-4c9a-b91b-1e9a5b119576" />
+
 
 ---
 
