@@ -29,13 +29,16 @@ O sistema permite o cadastro, consulta, atualização e exclusão de casos clín
 ## 📸 Capturas de Tela
 
 ### 1. Tela de Login
-![Login](link_da_sua_imagem_aqui)
+![Login](<img width="752" height="518" alt="Login tela" src="https://github.com/user-attachments/assets/71b32948-aa6a-4918-958b-5e651432ea4a" />
+)
 
 ### 2. Menu Principal
-![Menu Principal](link_da_sua_imagem_aqui)
+![Menu Principal](<img width="750" height="512" alt="Tela Principal" src="https://github.com/user-attachments/assets/800a3228-d2f7-4c69-9265-fef5c2e6e788" />
+)
 
 ### 3. Consulta com JOIN
-![Consulta Join](link_da_sua_imagem_aqui)
+![Consulta Join](<img width="752" height="545" alt="image" src="https://github.com/user-attachments/assets/f6350ae6-bb6b-4c9a-b91b-1e9a5b119576" />
+)
 
 ---
 
