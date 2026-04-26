@@ -53,7 +53,7 @@ Para rodar este projeto localmente, siga estes passos:
     * Abra o projeto na sua IDE (NetBeans, IntelliJ, etc.).
     * Na classe de Conexão, ajuste a URL do banco, usuário e senha.
 3.  **Executar:**
-    * Rode a classe principal de Login localizada na pasta `view`.
+    * Rode a classe principal de Login localizada na pasta `view` e `TelaInicial`.
 
 ---
 
