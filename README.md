@@ -59,7 +59,7 @@ Para rodar este projeto localmente, siga estes passos:
 
 ## 🎥 Demonstração em Vídeo
 Confira a explicação detalhada do sistema, do código e das consultas SQL:
-👉 [Insira o Link do Vídeo Aqui]
+👉 [https://youtu.be/te9-uRgcIxI]
 
 ---
 
