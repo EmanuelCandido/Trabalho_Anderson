@@ -63,6 +63,6 @@ Confira a explicação detalhada do sistema, do código e das consultas SQL:
 
 ---
 
-## 👤 Desenvolvedora
+## 👤 Desenvolvedor
 * **Nome:** Emanuel Cândido da Silva Lima
 * **Disciplina:** Banco de Dados
