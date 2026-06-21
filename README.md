@@ -55,11 +55,6 @@ Para rodar este projeto localmente, siga estes passos:
 3.  **Executar:**
     * Rode a classe principal de Login localizada na pasta `view` e `TelaInicial`.
 
----
-
-## 🎥 Demonstração em Vídeo
-Confira a explicação detalhada do sistema, do código e das consultas SQL:
-👉 [https://youtu.be/te9-uRgcIxI]
 
 ---
 
